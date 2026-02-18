@@ -14,6 +14,10 @@ It's a project created by team Watch Cats during participation in [Bellingcat's 
 Inspired by [4CAT](https://4cat.nl/) and [twitter explorer](https://twitterexplorer.org/).
 The development process is documented in [this Google document](https://docs.google.com/document/d/10xOgmZmvLM-BJeak-KNXzkx7H5oqnbn834-o94WbM50/edit#heading=h.m0d3jrsts18t).
 
+## Related project
+
+- [Sentinel X](https://github.com/ak1904-cs/sentinel_x)
+
 # MVP
 
 Available by the link: https://bellingcat-hackathon-watchcats-uearyc7iggn84xznppgq5k.streamlit.app/
@@ -64,4 +68,3 @@ For private cloud installation, you need:
 An example of a hashtag network built with [Twitter Explorer](https://twitterexplorer.org/) using one of the datasets
 
 <img width="958" alt="HashtagNetwork" src="https://github.com/soxoj/bellingcat-hackathon-watchcats/assets/31013580/6327e7dd-ceb1-4f26-a5b4-6961dae5957b">
-
